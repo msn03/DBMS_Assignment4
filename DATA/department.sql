@@ -1,0 +1,21 @@
+
+insert into department (dep_id, dep_name, location_id) values (1, 'Accounting', 105);
+insert into department (dep_id, dep_name, location_id) values (2, 'Support', 3);
+insert into department (dep_id, dep_name, location_id) values (3, 'Business Development', 11);
+insert into department (dep_id, dep_name, location_id) values (4, 'Business Development', 113);
+insert into department (dep_id, dep_name, location_id) values (5, 'Training', 131);
+insert into department (dep_id, dep_name, location_id) values (6, 'Accounting', 45);
+insert into department (dep_id, dep_name, location_id) values (7, 'Sales', 153);
+insert into department (dep_id, dep_name, location_id) values (8, 'Human Resources', 120);
+insert into department (dep_id, dep_name, location_id) values (9, 'Human Resources', 15);
+insert into department (dep_id, dep_name, location_id) values (10, 'Marketing', 151);
+insert into department (dep_id, dep_name, location_id) values (11, 'Marketing', 180);
+insert into department (dep_id, dep_name, location_id) values (12, 'Services', 37);
+insert into department (dep_id, dep_name, location_id) values (13, 'Services', 33);
+insert into department (dep_id, dep_name, location_id) values (14, 'Engineering', 116);
+insert into department (dep_id, dep_name, location_id) values (15, 'Product Management', 3);
+insert into department (dep_id, dep_name, location_id) values (16, 'Accounting', 131);
+insert into department (dep_id, dep_name, location_id) values (17, 'Support', 132);
+insert into department (dep_id, dep_name, location_id) values (18, 'Services', 158);
+insert into department (dep_id, dep_name, location_id) values (19, 'Human Resources', 33);
+insert into department (dep_id, dep_name, location_id) values (20, 'Product Management', 183);

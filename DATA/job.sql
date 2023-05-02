@@ -1,0 +1,21 @@
+
+insert into job (job_id, job_title) values (1, 'Professor');
+insert into job (job_id, job_title) values (2, 'Information Systems Manager');
+insert into job (job_id, job_title) values (3, 'Actuary');
+insert into job (job_id, job_title) values (4, 'Nurse');
+insert into job (job_id, job_title) values (5, 'General Manager');
+insert into job (job_id, job_title) values (6, 'GIS Technical Architect');
+insert into job (job_id, job_title) values (7, 'Environmental Tech');
+insert into job (job_id, job_title) values (8, 'Accountant I');
+insert into job (job_id, job_title) values (9, 'Budget/Accounting Analyst II');
+insert into job (job_id, job_title) values (10, 'Programmer Analyst I');
+insert into job (job_id, job_title) values (11, 'Developer III');
+insert into job (job_id, job_title) values (12, 'Structural Engineer');
+insert into job (job_id, job_title) values (13, 'Technical Writer');
+insert into job (job_id, job_title) values (14, 'Biostatistician III');
+insert into job (job_id, job_title) values (15, 'Pharmacist');
+insert into job (job_id, job_title) values (16, 'GIS Technical Architect');
+insert into job (job_id, job_title) values (17, 'Systems Administrator III');
+insert into job (job_id, job_title) values (18, 'Marketing Assistant');
+insert into job (job_id, job_title) values (19, 'Information Systems Manager');
+insert into job (job_id, job_title) values (20, 'Graphic Designer');

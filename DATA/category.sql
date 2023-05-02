@@ -1,0 +1,24 @@
+
+insert into category (category_id, category_name) values (1, 'Dairy');
+insert into category (category_id, category_name) values (2, 'Bakery');
+insert into category (category_id, category_name) values (3, 'Pastry');
+insert into category (category_id, category_name) values (4, 'Confectionery');
+insert into category (category_id, category_name) values (5, 'Canned_ready');
+insert into category (category_id, category_name) values (6, 'Drinks');
+insert into category (category_id, category_name) values (7, 'Alcohol');
+insert into category (category_id, category_name) values (8, 'Cereals');
+insert into category (category_id, category_name) values (9, 'Meat');
+insert into category (category_id, category_name) values (10, 'Oils');
+insert into category (category_id, category_name) values (11, 'Fruits');
+insert into category (category_id, category_name) values (12, 'Vegetables');
+insert into category (category_id, category_name) values (13, 'Pulses');
+insert into category (category_id, category_name) values (14, 'Sauces');
+insert into category (category_id, category_name) values (15, 'Soups');
+insert into category (category_id, category_name) values (16, 'Frozen');
+insert into category (category_id, category_name) values (17, 'Snacks');
+insert into category (category_id, category_name) values (18, 'Spices');
+insert into category (category_id, category_name) values (19, 'Other');
+insert into category (category_id, category_name) values (20, 'Kitchen');
+insert into category (category_id, category_name) values (21, 'Paste');
+insert into category (category_id, category_name) values (22, 'Seafood');
+insert into category (category_id, category_name) values (23, 'Organic');
